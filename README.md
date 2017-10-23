@@ -3,4 +3,4 @@ This repository is for public use. I'll be storing responsive templates I've use
 
 You can view demos of the websites here:
 
-AB_Master: https://codepen.io/dimilo/pen/BZaKwJ
+AB_Master: https://codepen.io/dimilo/full/BZaKwJ/
